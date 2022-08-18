@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{411C0577-07B6-49EB-B52B-D29AA887CABB}">
+				<TypeInfo Item0="{5D5D773D-751A-436C-A0A6-C3ABC40151DA}" />
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="notepad" Key="{0CBD3319-6443-4EF7-9B21-EC073B8547EB}">
+						<TypeInfo Item0="{0BFC9AF8-B403-445E-9C15-D4707D711D19}" />
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="notepad" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndNotepad" Key="{E1440B1B-CC0E-4407-AE69-BADF256497C4}">
+								<Image FileName="1345210164" Left="0" Top="0" Right="669" Bottom="542" />
+								<TypeInfo Item0="{CA536D12-69BA-479F-B881-A0B250C44F3F}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Notepad" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Edit" Key="{BEB82B42-59F7-4463-8440-ADEBBC2E94CC}">
+										<Image FileName="1345210164" Left="8" Top="51" Right="661" Bottom="511" />
+										<TypeInfo Item0="{59ED9558-80D5-4B38-806A-E887F1530C64}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Edit" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="browser" Key="{B8FEBE91-6D0F-4E0B-8A57-A5BCB72F0BF9}">
+						<TypeInfo Item0="{0C1C39F5-753F-4E3D-A4B0-8F150A875C73}" />
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="pageMetrix" Key="{A7156F7F-7795-4AC5-B99E-AAD1C7A6210B}">
+								<Image FileName="2094829950" Left="8" Top="79" Right="1374" Bottom="736" />
+								<TypeInfo Item0="{544F6239-51A0-45B2-B12B-4752869CA045}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://metrixuat.navigant.com/Login.aspx/LoginUser*" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageMETRIX2" Key="{8D6D0B6D-2B7C-49A4-A322-E802C41AD662}">
+								<Image FileName="1306382806" Left="8" Top="79" Right="1374" Bottom="736" />
+								<TypeInfo Item0="{544F6239-51A0-45B2-B12B-4752869CA045}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://metrixuat.navigant.com/Application.aspx" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="formAspnetform" Key="{F3252E97-897B-4A8C-BCCB-44F8D1AD6C56}">
+										<Image FileName="1306382806" Left="8" Top="79" Right="1374" Bottom="736" />
+										<TypeInfo Item0="{14F2DCB6-42EC-45AB-AAE9-D0547E522A21}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#aspnetForm" />
+											</Selector>
+											<Selector>
+												<Value Value="form[contains(., &apos;Account #&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="form[contains(@action, &apos;Application.aspx&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="form" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="tableM" Key="{5902B4F5-F569-4D3B-B680-894803E49313}">
+										<Image FileName="1306382806" Left="8" Top="106" Right="1374" Bottom="736" />
+										<TypeInfo Item0="{8963AB10-39ED-4638-A1C1-58AE16213422}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//table[contains(., &apos;Main&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//table[contains(@class, &apos;RadSplitter&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="chrome" Key="{0DFC8DC8-293A-49AA-B815-5E5A6E08C0F9}">
+						<TypeInfo Item0="{5B605F45-4612-4E02-8E98-7C1DBBB39337}" />
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="chrome" />
+							</Property>
+							<Property Name="Index">
+								<Value Value="1" Type="0" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="pageLoginuser" Key="{5A5335D1-C087-467B-AE01-1065C34C1811}">
+								<Image FileName="694950146" Left="8" Top="79" Right="1374" Bottom="736" />
+								<TypeInfo Item0="{544F6239-51A0-45B2-B12B-4752869CA045}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://metrixuat.navigant.com/Login.aspx/LoginUser*" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="notepad" Owner="{0CBD3319-6443-4EF7-9B21-EC073B8547EB}">
+			<Child Name="wndNotepad" Owner="{E1440B1B-CC0E-4407-AE69-BADF256497C4}">
+				<Child Name="Edit" Owner="{BEB82B42-59F7-4463-8440-ADEBBC2E94CC}" />
+			</Child>
+		</Child>
+		<Child Name="browser" Owner="{B8FEBE91-6D0F-4E0B-8A57-A5BCB72F0BF9}">
+			<Child Name="MetrixLoginPage" Owner="{A7156F7F-7795-4AC5-B99E-AAD1C7A6210B}" />
+			<Child Name="MetrixHomePage" Owner="{8D6D0B6D-2B7C-49A4-A322-E802C41AD662}">
+				<Child Name="formAspnetform" Owner="{F3252E97-897B-4A8C-BCCB-44F8D1AD6C56}">
+					<Child Name="tableM" Owner="{5902B4F5-F569-4D3B-B680-894803E49313}" />
+				</Child>
+			</Child>
+		</Child>
+		<Child Name="chrome" Owner="{0DFC8DC8-293A-49AA-B815-5E5A6E08C0F9}">
+			<Child Name="pageLoginuser" Owner="{5A5335D1-C087-467B-AE01-1065C34C1811}" />
+		</Child>
+	</LogicalNodes>
+</Root>

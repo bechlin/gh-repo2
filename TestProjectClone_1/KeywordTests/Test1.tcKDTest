@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{144B9753-ABCC-4E8E-9300-31AF7F22EEB6}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps>
+					<Bitmap Name="Aliases.notepad" Data="61717A6970000000010000003604000078018D53494C535114C5C41807628C71E1D26513F7C468C242820B8D1A31718589C601C73820621884045A046CCB104A40CB5828116C1942A958CB585A687F5B3ACF2DA5B4B4B4D5C6B51CDFFFD0450D89DCE4BEFBFE7FFFBC7BEEBDE75FBC9A73308BB11CB2B2889FD8F5035967C88ED8EEF9CEC3DE6B5EE183F1BBB5CDD88FB3F20BAAFFBD25E07323954AEECBE91C79B9AC1B364D2D1C2BF570517CB8F5CD70534D644F3B0F4E1D8FBC6B61DCA9E5412D7F8BB4D1F85327B34FCB474A5CB515B7DBF975F7075CA611380C83B0533DB0AE74C0B4D482D5C546E8E738D02A2B21133F4134EC64F8D1789ABF42F2C65F535128E0B1EF88C23E19422E0982763102966E788CED0C2FC7721D2C8B9550C94A110B69190A69BCA8A36881CB79D8CB65DFEBF358A470AD7E815DDF0FABEE13CC9A36929F4BF2B3A1539443292DC6AAA637237FC9F32B0DDD8297535C4E516F2C3487CDC034C29E09ACBB8611B089E0377D26F5B7C2A1AD07A5AC8259DD96913FF73CEBF298B854CFFBF0B4C7EFF806AF751CE93ED8745DB0680484031FFA7936E15F8699F1F28CFC470E1F3A363351B6C6AF7FD19D88AC602BA442744D8908D30B29D6EC83F099BBE035B4C1A2E66091F4607BFB0FA391F4FC15A3EFFC4D0DC55D41CF1C024E057C3619DC66099C862166163407938A0F6AB60693838F108FFA33F03DED8F15424199F457CC84E4268544588D68701611FF1442EE1D0E7EB39068A319F313C5486C1A33F0AF9F5D630FF7BD9F5FF76910F42E20E052EE7290123D8861A3BAC92C04302C34E2BBE415ACD45006FEC2B9B379D3A3558E54C28554CC8A64448F786889E943D83B4966F195CCA21F5E6327B43FAA61D70933F0D9D9478FABE4D591DF490F52713B7E468DA486656CAD9379FAE5D8A06BB00DC06712122DD4323CD2FA49F7502EA9B6DC2AB884F8860637AFE7231A503271C33DC6C435AB888956CD471889A6F6FAFFE8BB3A5BAB185DFF2FD2DFFE0581269358" />
+					<Bitmap Name="Aliases.notepad.wndNotepad" Data="61717A697000000001000000360400007801C591CD4B024118C69FA03FA03FA163C7E8E0A14BD42528A2637436BC4404753028A420F42044501991111925E42582923A4474F250418720A8285A5357F37B77DD8F59B7D955635D45EAE40CCF30C3F0FCE699F71D1AB375C21836BAF6507555D5816EBAA3A37A5F3954560DED9FE1C006A6466CFF9239B5EE57B81C94620672210D39978294652165E290D2319412EF109867706F8FE05E1E8C77AC7E22145A32C4148352EC15FCC753737F89430323FF4DB324698E8491A3C6D0FF6A7D5F1579902A83F0799A250B45FF4B1386D57F75E4832A8B50250144E70845B46258FD37213FCA44FE1B83D6D5EA8F9C1DA2AC92168CFADE58FD771741689AD6C030D7C4DC5FAB3F79E2852E36E801BBBF88F8F62C626B767CB927C0B846C13807F139DFFFAB88BDB7AEFEBA57BB0D40BDF6835CFAA09CAF433EF5420AAD420CBA200416C0EFCD81DF994671CB817B475F83BF962179EC067BB08CC4AE13F1CD994A0ECF24A22BE3882E0DD32C03460E73FFDBB9FF01EBA33263" />
+				</NodeBitmaps>
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates one or several keypresses." Action="Keys">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Keys" DefVarType="8" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="DBDatasouce" ColumnName="Firstname" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.notepad.wndNotepad.Edit" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates one or several keypresses." Action="Keys">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Keys" DefVarType="8" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="DBDatasouce" ColumnName="Lastname" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.notepad.wndNotepad.Edit" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates one or several keypresses." Action="Keys">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Keys" DefVarType="8" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="DBDatasouce" ColumnName="Address" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.notepad.wndNotepad.Edit" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates one or several keypresses." Action="Keys">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="test" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.notepad.wndNotepad.Edit" />
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Variables Version="4" Key="{F2893ED3-F0E9-44C7-AE4F-7E99427BB7A4}">
+		<Items>
+			<Variable Name="DBDatasouce" Type="Table" Local="False">
+				<DefValue RowCount="20" ColumnCount="4">
+					<Columns ColumnName0="Firstname" ColumnName1="Lastname" ColumnName2="Address" ColumnName3="Phone" />
+					<Row No="0" Cell0="Conan Glass" Cell1="Imogene Casey" Cell2="39970 West Faroe Islands Ct." Cell3="169-541-1259" />
+					<Row No="1" Cell0="Irma Trujillo" Cell1="Holmes Bartlett" Cell2="62264 Portugal Ave." Cell3="058-806-7559" />
+					<Row No="2" Cell0="Uta Hooper" Cell1="Gabriel Gomez" Cell2="81740 South Syrian Arab Republic Way" Cell3="778-270-0753" />
+					<Row No="3" Cell0="Rigel Moss" Cell1="John Swanson" Cell2="48955 North French Southern Territories Way" Cell3="894-822-9620" />
+					<Row No="4" Cell0="Fritz Chen" Cell1="Scott Reilly" Cell2="8146 United States Way" Cell3="818-014-5438" />
+					<Row No="5" Cell0="Petra Hobbs" Cell1="Clio Hancock" Cell2="51222 West San Marino Ln." Cell3="836-572-8594" />
+					<Row No="6" Cell0="Perry Medina" Cell1="Kelsey Roberts" Cell2="66643 North Fletcher Blvd." Cell3="652-799-6061" />
+					<Row No="7" Cell0="Savannah Oconnor" Cell1="Mallory Bell" Cell2="16255 North Tyson St." Cell3="071-304-4763" />
+					<Row No="8" Cell0="Alec Melendez" Cell1="Noah Hayes" Cell2="34929 Belarus St." Cell3="515-479-0762" />
+					<Row No="9" Cell0="Cole Conrad" Cell1="Paki Lewis" Cell2="83281 Black Blvd." Cell3="253-058-6514" />
+					<Row No="10" Cell0="Yael Prince" Cell1="Brent Vazquez" Cell2="54973 East Schroeder Way" Cell3="301-661-3599" />
+					<Row No="11" Cell0="Bo Boyd" Cell1="Jared Ford" Cell2="9904 East China Ave." Cell3="035-791-0000" />
+					<Row No="12" Cell0="Honorato Mccray" Cell1="Elijah Foley" Cell2="35194 Christmas Island Way" Cell3="859-011-1068" />
+					<Row No="13" Cell0="Yardley Camacho" Cell1="Cameron Yang" Cell2="89995 Antarctica St." Cell3="586-941-3716" />
+					<Row No="14" Cell0="Boris Wilkins" Cell1="Blythe Sawyer" Cell2="30195 East Acosta Ln." Cell3="867-501-0579" />
+					<Row No="15" Cell0="Audrey Christian" Cell1="Kibo David" Cell2="97579 Ghana Ave." Cell3="798-433-3771" />
+					<Row No="16" Cell0="Chava Key" Cell1="Aquila Mcclain" Cell2="57381 Francis Ln." Cell3="595-419-7355" />
+					<Row No="17" Cell0="Jael Owen" Cell1="Palmer Hernandez" Cell2="41069 East Romania Blvd." Cell3="653-557-7613" />
+					<Row No="18" Cell0="Shaine Moses" Cell1="Marah Mosley" Cell2="59914 San Marino Way" Cell3="954-906-2973" />
+					<Row No="19" Cell0="Basil Reeves" Cell1="Jada Kaufman" Cell2="62236 Dickerson Ct." Cell3="498-733-2004" />
+				</DefValue>
+			</Variable>
+		</Items>
+	</Variables>
+	<Parameters Key="{F818C8AA-DBD2-4D10-9B9B-25177178D672}">
+		<Parameter0 Name="FirstName" VarType="8" IsOptional="False" DefValueType="6" DefValueValue="" Description="" />
+		<Parameter1 Name="LastName" VarType="8" IsOptional="False" DefValueType="6" DefValueValue="" Description="" />
+	</Parameters>
+</Root>
