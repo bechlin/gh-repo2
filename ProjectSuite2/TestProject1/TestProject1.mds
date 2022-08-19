@@ -3,6 +3,7 @@
 	<children>
 		<child name="Script" key="{7DF04280-FDD8-46ED-B685-6AEED959629F}" type="Script" typeId="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" pluginName="Script" path="Script\Script.tcScript" />
 		<child name="KeywordTests" key="{11CE16EC-A760-484B-81F9-4D6855FEB2F8}" type="Keyword Testing" typeId="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" pluginName="Keyword Testing" path="KeywordTests\KeywordTests.tcKDT" />
+		<child name="NameMapping" key="{B1E70892-DB20-4034-B585-8337C82EFD03}" type="Name Mapping" typeId="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" pluginName="NameMapping" path="NameMapping\NameMapping.tcNM" />
 	</children>
 	<config language="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" />
 	<testItems key="{FE7AAA1B-0976-489C-8AE9-92A065A1924D}" version="14">

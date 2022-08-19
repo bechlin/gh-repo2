@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
-	<data key="{99DC5F04-D672-491B-9F05-5D6502FC2693}" />
+	<data key="{99DC5F04-D672-491B-9F05-5D6502FC2693}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="44792.26" objectName="Aliases.notepad.wndNotepad" objectLeft="0" objectTop="0" objectRight="790" objectBottom="418" clickPointX="-1" clickPointY="-1" imageFileName="tcvi5313921155840.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
 </Root>
