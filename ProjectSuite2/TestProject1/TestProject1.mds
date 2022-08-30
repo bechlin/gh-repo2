@@ -7,7 +7,13 @@
 	</children>
 	<config language="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" />
 	<testItems key="{FE7AAA1B-0976-489C-8AE9-92A065A1924D}" version="14">
-		<children />
+		<children>
+			<testItem name="Start_notepad" key="{E48C6BB3-AE4F-420B-ABB0-D6B14483D5D3}" group="False" parallel="False" enabled="True" testMoniker="KDT\{99DC5F04-D672-491B-9F05-5D6502FC2693}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<environments activeCloud="CBT" />
+				<children />
+			</testItem>
+		</children>
 	</testItems>
 	<variables key="{85B68E66-43F7-4CBB-B641-CC94FF85CA87}" />
 	<settings key="{149BCA54-D302-4299-A1BA-CFF2CF0F09A4}">
