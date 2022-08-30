@@ -8,7 +8,7 @@
 	<config language="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" />
 	<testItems key="{FE7AAA1B-0976-489C-8AE9-92A065A1924D}" version="14">
 		<children>
-			<testItem name="Start_notepad" key="{5279AAB7-1033-4E18-8942-1FC6427B0B46}" group="False" parallel="False" enabled="True" testMoniker="KDT\{99DC5F04-D672-491B-9F05-5D6502FC2693}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+			<testItem name="Start_chrome" key="{3DDADF43-9660-443F-AEA0-D7545F5736D6}" group="False" parallel="False" enabled="True" testMoniker="KDT\{99DC5F04-D672-491B-9F05-5D6502FC2693}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 				<testParameters />
 				<environments activeCloud="CBT" />
 				<children />
