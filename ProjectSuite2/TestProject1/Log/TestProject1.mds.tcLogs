@@ -84,6 +84,24 @@
 				<Prp name="relpath" type="S" value="8_30_2022_2_13 PM_14_237\Description.tcLog"/>
 				<Prp name="status" type="I" value="0"/>
 			</Node>
+			<Node name="log idx=0007">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44803.5984822917"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{2B86B3BA-C848-4AFE-B271-050C8EC4D241}"/>
+				<Prp name="nameofroot" type="S" value="TestProject1"/>
+				<Prp name="relpath" type="S" value="8_30_2022_2_21 PM_48_870\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0008">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44804.4759002778"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{B51ED3CC-65A2-4B93-A376-D8F76F87533E}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [Start_chrome]"/>
+				<Prp name="relpath" type="S" value="8_31_2022_11_25 AM_17_784\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
 		</Node>
 		<Prp name="signature" type="S" value="{681DCC69-A39F-4C4D-8E7D-B2D9362FAF4F}"/>
 		<Prp name="version" type="S" value="11.0"/>
